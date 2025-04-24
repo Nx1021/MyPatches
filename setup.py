@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-
+import LauncherTemplate
 setup(
     name="mypatches",
     version="0.1",
